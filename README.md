@@ -4,7 +4,7 @@ basics on numpy arrays. the anatomy of the arrays and how to initialize the arra
 ### *NUMPY ANATOMY* 
 Numpy arrays come is various types, shapes and sizes. In this article will look at different array parameters, and learn the correct terms used by numpy.
 
-#Rank
+# Rank
 The rank of an array is simply the number of axes (or dimensions) it has.
 
 A simple list has rank 1:
